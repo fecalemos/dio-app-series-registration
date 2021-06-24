@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fecal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fecal\\.nuget\\packages"
+    ]
+  }
+}
